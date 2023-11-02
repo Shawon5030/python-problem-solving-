@@ -1,3 +1,6 @@
+#name:Mahmudul haque shawon
+#(study:diploma in engineering (sub:computer science and engineering 2nd semester)
+
 #1. Write a program that swaps the values of two variables.
 a=100
 b=200
